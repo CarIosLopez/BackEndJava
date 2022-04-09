@@ -8,4 +8,14 @@
 * **Podrás conseguir mejores oportunidades laborales y dejar de ser un programador jr**, esto último porque las preguntas más hechas en entrevistas suelen ser *¿qué es el poliforismo, abstacción, herencia, encapsulameinto, modularidad?,* conocer la definición de estas palabras y entender como funcionan son claves para llamar la atención de un reclutador ya que te hará ver como un programador Senior.
 * **Crear tu propio codigo y dejar de copiar y pegar codigo,** muchos programadores jr suelen copiar y pegar codigo de Internet, al dominar la POO podrás crear codigo original, evitando así que tu codigo sea un Frankenstein que no se sabe ni por donde comienza ni en donde termina.
 
-> "Necesitas aprender a leer, entender lo que ves para poder crear una solución, lo importante es entender, de nada sirve copiar de Stack Overflow"
+> *Necesitas aprender a leer, entender lo que ves para poder crear una solución, lo importante es entender, de nada sirve copiar de Stack Overflow porque eso cualquiera lo puede hacer.*
+>
+> Fernanda Ochoa
+
+
+
+#### Skills que tendré al dominar POO:
+
+* Analizar: Observar, entender y leer de una manera eficaz un problema, para así poder tener un punto de vista diferente al que tienes ahora mismo.
+* Plasmar: Una vez tenga mi analisis, podré pasar a desarrollar algo grafico.
+* Programar: Programar lo que acabas de plasmar.
