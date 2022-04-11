@@ -12,10 +12,37 @@
 >
 > Fernanda Ochoa
 
-
-
 #### Skills que tendré al dominar POO:
 
 * Analizar: Observar, entender y leer de una manera eficaz un problema, para así poder tener un punto de vista diferente al que tienes ahora mismo.
 * Plasmar: Una vez tenga mi analisis, podré pasar a desarrollar algo grafico.
 * Programar: Programar lo que acabas de plasmar.
+
+
+#### 5
+
+#### Abstracción
+
+Lo podemos definir como una facultad intuitiva del ser humano para reconocer la esencia o caracteristicas esenciales que tiene un objeto
+
+#### Modularidad
+
+Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto
+
+#### Encapsulamiento
+
+Todo lo que no es relevante en una clase
+
+#### Herencia
+
+Relación que existe dependiendo del ancestro, estos pueden compartir o heredar ciertas caracteristicas y conservar un comportamiento en común
+
+#### Poliformismo
+
+Desglosando la palabra:
+
+*Poli -> Muchas / morfismo -> Formas*
+
+*"Muchas formas"*
+
+Por lo que podrías interpretarlo cómo muchas maneras de comportarse, el POLIMORFISMO en si es construir métodos con el mismo nombre pero con comportamientos diferentes
