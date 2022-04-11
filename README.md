@@ -23,26 +23,24 @@
 
 #### Abstracción
 
-Lo podemos definir como una facultad intuitiva del ser humano para reconocer la esencia o caracteristicas esenciales que tiene un objeto
+* Lo podemos definir como una facultad intuitiva del ser humano para reconocer la esencia o caracteristicas esenciales que tiene un objeto.
 
 #### Modularidad
 
-Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto
+* Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto.
 
 #### Encapsulamiento
 
-Todo lo que no es relevante en una clase
+* Todo lo que no es relevante en una clase.
 
 #### Herencia
 
-Relación que existe dependiendo del ancestro, estos pueden compartir o heredar ciertas caracteristicas y conservar un comportamiento en común
+* Relación que existe dependiendo del ancestro, estos pueden compartir o heredar ciertas caracteristicas y conservar un comportamiento en común.
 
 #### Poliformismo
 
-Desglosando la palabra:
+* Desglosando la palabra:
 
-*Poli -> Muchas / morfismo -> Formas*
+  *Poli -> Muchas / morfismo -> Formas  = "Muchas formas"*
 
-*"Muchas formas"*
-
-Por lo que podrías interpretarlo cómo muchas maneras de comportarse, el POLIMORFISMO en si es construir métodos con el mismo nombre pero con comportamientos diferentes
+  Por lo que podrías interpretarlo cómo muchas maneras de comportarse, el POLIMORFISMO en si es construir métodos con el mismo nombre pero con comportamientos diferentes.
