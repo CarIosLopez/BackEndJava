@@ -27,11 +27,13 @@
 
 #### Modularidad
 
-* Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto.
+* Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto o las diferentes formas que puede hacer algo.
+* ¿Qué puede hacer?
 
 #### Encapsulamiento
 
-* Todo lo que no es relevante en una clase.
+* Se podría definir como
+* ¿Cómo lo hace?
 
 #### Herencia
 
@@ -44,3 +46,19 @@
   *Poli -> Muchas / morfismo -> Formas  = "Muchas formas"*
 
   Por lo que podrías interpretarlo cómo muchas maneras de comportarse, el POLIMORFISMO en si es construir métodos con el mismo nombre pero con comportamientos diferentes.
+
+#### Pojos
+
+Clase pura
+
+Se define un objeto
+
+Los puedes definir por Setter(asignar) y Getters(obtener) (set y get)
+
+O por constructor 
+
+PSVM Public Static Void Main - Lugar donde podrás asignar set/get que el usurio dictará como asignar las caracteristicas conectandolo a tu clase como un objeto
+
+Asi que puedes asumir que dentro del pojo puedes tener setter y getters
+
+En esta parte no pongas condicionales ni nada por el estilo, es una mala practica
