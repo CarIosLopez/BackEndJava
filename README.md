@@ -18,7 +18,7 @@
 * Plasmar: Una vez tenga mi analisis, podré pasar a desarrollar algo grafico.
 * Programar: Programar lo que acabas de plasmar.
 
-#### 5
+#### Conceptos:
 
 #### Abstracción
 
