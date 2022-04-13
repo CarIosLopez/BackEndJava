@@ -18,7 +18,6 @@
 * Plasmar: Una vez tenga mi analisis, podré pasar a desarrollar algo grafico.
 * Programar: Programar lo que acabas de plasmar.
 
-
 #### 5
 
 #### Abstracción
@@ -49,16 +48,8 @@
 
 #### Pojos
 
-Clase pura
-
-Se define un objeto
-
-Los puedes definir por Setter(asignar) y Getters(obtener) (set y get)
-
-O por constructor 
-
-PSVM Public Static Void Main - Lugar donde podrás asignar set/get que el usurio dictará como asignar las caracteristicas conectandolo a tu clase como un objeto
-
-Asi que puedes asumir que dentro del pojo puedes tener setter y getters
-
-En esta parte no pongas condicionales ni nada por el estilo, es una mala practica
+* Clase pura que define un objeto.
+* Los puedes definir por Setter(asignar) y Getters(obtener) (set y get) o por constructor.
+* PSVM Public Static Void Main - Lugar donde podrás asignar set/get que el usurio dictará como asignar las caracteristicas conectandolo a tu clase como un objeto.
+* Asi que puedes asumir que dentro del pojo puedes tener setter y getters.
+* En esta parte no pongas condicionales ni nada por el estilo, es una mala practica hacerlo, solo pon setters y getters.
