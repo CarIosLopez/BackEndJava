@@ -2,6 +2,10 @@
 
 *Este apartado son tips, consejos y notas que menciona* **Fernanda Ochoa** *durante sus clases, no estan escritas tal cual lo dice, he tratado de parafrasear y reodenar sus palabras para poder entenderlo, espero que les ayude.*
 
+* = tips, consejos
+
+Solo texto = Mi aporte
+
 
 
 ---
@@ -14,3 +18,6 @@
 
 * No es buena practica escribir "ñ".
 * Si son del mismo tipo de dato, te ahorras una linea de codigo, por lo tanto no escribas 2 veces "public int, private int, private o public double" es innecesario.
+* Las variables, clases y funciones apareceran en gris hasta que sean utlizadas.
+
+Una manera en la que yo veo una similitud en la función de set es que funciona parecido a un input ya que le pides al usuario que asigne un dato, el set lo que hace es eso e indicarle al programa que los tiene que agregar a otra "hoja" donde se van a usar esos dichos datos
