@@ -20,3 +20,22 @@ Solo texto = Mi aporte
 * Las variables, clases y funciones apareceran en gris hasta que sean utlizadas.
 
 Una manera en la que yo veo una similitud en la función de set es que funciona parecido a un input ya que le pides al usuario que asigne un dato, el set lo que hace es eso e indicarle al programa que los tiene que agregar a otra "hoja" donde se van a usar esos dichos datos
+
+* El detalle esta si no validas el dato que ingresa el usuario o no ingresas alguna validación de algún tipo, lo único que vas a lograr es que tu programa truene cuando ingresen un dato que no deseas como una letra o cualquier cosa que no sea el dato que deseas. Es muy común este tipo de definiciones.
+* Cuando pones el tipo de dato tienes que especificar forzosamente un **return** porque si tienes un dato de entrada que tiene que dar algo de salida.
+* Cuando pones un **void** no es necesario que te regrese datos
+* Una clase de Java tiene **campos, metodos, constructores, bloques**, que viene siendo todo un conjunto y **clases anidadas a interfaces**, puede que no tengamos todas estas caracteristicas pero siempre habrá campos y metodos
+* Cuando creas una clase se hace por default un constructor llamado: **public void + "nombre de la clase"** que no se puede ver pero esta ahí.
+  (img))
+* **Definición de un metodo, firma o signatura de un metodo, la palabra correcta es signatura del metodo.**
+  Nos dara a entender si hay un valor de retorno, cual es el nombre del metodo, cual es el numero, si tiene un tipo, si tiene un orden en los parametros.
+  Esto nos ayudara a distinguir sin ambiguedad, tendremos 3 elementos que participan el la signatura del metodo:
+  - Valor de retorno
+  - Como se llama mi metodo
+  - Cúal es el numero, tipo o parametros
+
+    (img))
+* **This** se usa para redifinir variables
+* Cuando utilizas booleanos, muchos creen que en **else** forzosamente tienes que escribir algo o poner los corchetes pero cuando no se trata de una condición compuesta, no lo amerita, mientras sea una condición simple de un si y no, te puedes dar el lujo de no ponerlos.
+* Acostumbren a escribir por tipos de datos, si yo tengo enteros, primero defino los enteros.
+* Colocar el tipo de dato en la primera linea de codigo es una buena practica ya que te ayudará
