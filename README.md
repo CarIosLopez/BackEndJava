@@ -1,38 +1,55 @@
-# Notes C1 - POO
+# Notebook
 
-*Este apartado son tips, consejos y notas que menciona* **Fernanda Ochoa** *durante sus clases, no estan escritas tal cual lo dice, he tratado de parafrasear y reodenar sus palabras para poder entenderlo, espero que les ayude.*
+## Programación Orientada a Objetos (POO)
 
-Viñetas = tips, consejos
+#### ¿Por qué aprender POO?
 
-Solo texto = Mi aporte
+* **Podrás  programar más rapido**, ya que al analizar cada situación antes de crear codigo te hará ver una mejor visión de lo que podrías generar improvisando, podrías resumirlo cómo: pensar y analizar que haré antes de comenzar.
+* **Podrás conseguir mejores oportunidades laborales y dejar de ser un programador jr**, esto último porque las preguntas más hechas en entrevistas suelen ser *¿qué es el polimorfismo, abstacción, herencia, encapsulameinto, modularidad?,* conocer la definición de estas palabras y entender como funcionan son claves para llamar la atención de un reclutador ya que te hará ver como un programador Senior.
+* **Crear tu propio codigo y dejar de copiar y pegar codigo,** muchos programadores jr suelen copiar y pegar codigo de Internet, al dominar la POO podrás crear codigo original, evitando así que tu codigo sea un Frankenstein que no se sabe ni por donde comienza ni en donde termina.
 
----
+> *Necesitas aprender a leer, entender lo que ves para poder crear una solución, lo importante es entender, de nada sirve copiar de Stack Overflow porque eso cualquiera lo puede hacer.*
+>
+> Fernanda Ochoa
 
-* Aquí lo voy a dejar public int, es bueno saber que tambien existe **private int que se puede usar detro del mismo paquete y protected se puede se puede usar para todo el paquete y public de mas paquetes,** pero lo vamos a dejar public porque manejare paquetes, ya que no es lo mismo lo que se ve en el paquete a nivel paquete a lo que se ve a nivel "hello" ya que unos estan empaquetados y los otros estan fuera.
+#### Skills que tendré al dominar POO:
 
-![](https://github.com/CarIosLopez/POO/blob/main/Notes/Images/public%20int.png)
+* Analizar: Observar, entender y leer de una manera eficaz un problema, para así poder tener un punto de vista diferente al que tienes ahora mismo.
+* Plasmar: Una vez tenga mi analisis, podré pasar a desarrollar algo grafico.
+* Programar: Programar lo que acabas de plasmar.
 
-* No es buena practica escribir "ñ".
-* Si son del mismo tipo de dato, te ahorras una linea de codigo, por lo tanto no escribas 2 veces "public int, private int, private o public double" es innecesario.
-* Las variables, clases y funciones apareceran en gris hasta que sean utlizadas.
+#### 5
 
-Una manera en la que yo veo una similitud en la función de set es que funciona parecido a un input ya que le pides al usuario que asigne un dato, el set lo que hace es eso e indicarle al programa que los tiene que agregar a otra "hoja" donde se van a usar esos dichos datos
+#### Abstracción
 
-* El detalle esta si no validas el dato que ingresa el usuario o no ingresas alguna validación de algún tipo, lo único que vas a lograr es que tu programa truene cuando ingresen un dato que no deseas como una letra o cualquier cosa que no sea el dato que deseas. Es muy común este tipo de definiciones.
-* Cuando pones el tipo de dato tienes que especificar forzosamente un **return** porque si tienes un dato de entrada que tiene que dar algo de salida.
-* Cuando pones un **void** no es necesario que te regrese datos
-* Una clase de Java tiene **campos, metodos, constructores, bloques**, que viene siendo todo un conjunto y **clases anidadas a interfaces**, puede que no tengamos todas estas caracteristicas pero siempre habrá campos y metodos
-* Cuando creas una clase se hace por default un constructor llamado: **public void + "nombre de la clase"** que no se puede ver pero esta ahí.
+* Lo podemos definir como una facultad intuitiva del ser humano para reconocer la esencia o caracteristicas esenciales que tiene un objeto.
 
-  (img))
-* Definición de un metodo, firma o signatura de un metodo, la palabra correcta es signatura del metodo.
+#### Modularidad
 
-  Nos dara a entender si hay un valor de retorno, cual es el nombre del metodo, cual es el numero, si tiene un tipo, si tiene un orden en los parametros.
+* Proceso mental que te ayudará a distinguir los diferentes componentes que conforma un objeto o las diferentes formas que puede hacer algo.
+* ¿Qué puede hacer?
 
-  Esto nos ayudara a distinguir sin ambiguedad, tendremos 3 elementos que participan el la signatura del metodo:
+#### Encapsulamiento
 
-  - Valor de retorno
-  - Como se llama mi metodo
-  - Cúal es el numero, tipo o parametros
+* Se podría definir como
+* ¿Cómo lo hace?
 
-    (img))
+#### Herencia
+
+* Relación que existe dependiendo del ancestro, estos pueden compartir o heredar ciertas caracteristicas y conservar un comportamiento en común.
+
+#### Poliformismo
+
+* Desglosando la palabra:
+
+  *Poli -> Muchas / morfismo -> Formas  = "Muchas formas"*
+
+  Por lo que podrías interpretarlo cómo muchas maneras de comportarse, el POLIMORFISMO en si es construir métodos con el mismo nombre pero con comportamientos diferentes.
+
+#### Pojos
+
+* Clase pura que define un objeto.
+* Los puedes definir con Setters(asignar) y Getters(obtener) (set y get) o por constructor.
+* PSVM Public Static Void Main - Lugar donde podrás asignar set/get que el usurio dictará como asignar las caracteristicas conectandolo a tu clase como un objeto.
+* Asi que puedes asumir que dentro del pojo puedes tener setters y getters.
+* En esta parte no pongas condicionales ni nada por el estilo, es una mala practica hacerlo, solo pon setters y getters.
