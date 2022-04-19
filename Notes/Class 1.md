@@ -78,9 +78,3 @@ Una manera en la que yo veo una similitud en la función de set es que funciona 
   ```
 
   se encargará de inicializar, ya que en una clase de Java primero los declaras y luego los inicializas.
-
----
-
-
-
----
