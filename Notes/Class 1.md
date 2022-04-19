@@ -84,5 +84,3 @@ Una manera en la que yo veo una similitud en la función de set es que funciona 
 
 
 ---
-
----
