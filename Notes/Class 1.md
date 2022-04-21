@@ -6,14 +6,11 @@ Viñetas = tips, consejos
 
 Solo texto = Mi aporte
 
-
 ---
-
 
 * Aquí lo voy a dejar public int, es bueno saber que tambien existe **private int que se puede usar detro del mismo paquete y protected se puede se puede usar para todo el paquete y public de mas paquetes,** pero lo vamos a dejar public porque manejare paquetes, ya que no es lo mismo lo que se ve en el paquete a nivel paquete a lo que se ve a nivel "hello" ya que unos estan empaquetados y los otros estan fuera.
 
 ![](https://github.com/CarIosLopez/POO/blob/main/Notes/Images/public%20int.png)
-
 
 * No es buena practica escribir "ñ".
 * Si son del mismo tipo de dato, te ahorras una linea de codigo, por lo tanto no escribas 2 veces "public int, private int, private o public double" es innecesario.
@@ -66,15 +63,31 @@ Una manera en la que yo veo una similitud en la función de set es que funciona 
 
   Recuerda que debes escribir el nombre de tu referencia exactamente igual que el nombre de tu clase.
 
-  De aqui tu puedes crear diferentes objetos con diferentes caractersticas porque ya tienes modelado en otra clase.
+  De aqui tu puedes crear diferentes objetos con diferentes caractersticas porque ya tienes modelado en una clase.
 
   (nuevo objeto)
 * Recuerdas que habíamos mencionado al constructor **public void + "nombre de la clase"** y que reiteramos que este no es una clase o un objeto, es momento que sepas su funcionalidad.
 
-  Lo que hacemos a continuación en nuestra clase main es utilizar el constructor por omisión que viene siendo el mismo constructor que mencionamos antes y por medio de los parentesis que ves aquí:
+  Lo que hacemos a continuación en nuestra clase main o dicho de mejor forma constructor por omisión que viene siendo el mismo constructor que mencionamos antes y por medio de los parentesis que ves aquí:
 
   ```
-      Bicicleta biciMountain = new Bicicleta();
+  Bicicleta biciMountain = new Bicicleta();
   ```
 
-  se encargará de inicializar, ya que en una clase de Java primero los declaras y luego los inicializas.
+  se encargará de inicializar, ya que en una clase de Java primero los declaras y luego los inicializas siempre y cuando lo determines en tu main.
+* Operador de indirección, da acceso a todo lo que tenga ese objeto, se define por un **punto(.)**
+
+  (img operado de indirección)
+* En esta parte necesitamos definir el metodo en nuestro main, en la signatura del metodo encontrarás las 3 partes:
+
+  (main)
+
+  No tendrá parametros y para crear los objetos siempre tienen que estar dentro del metodo.
+* Print line quiere decir qeu esta imprimiendo el salto de linea y no es necesario definir los saltos de linea.
+* El constructor son instrucciones de diseño para inicializar la instancia de una clase y desde su declaración o encabezado podemos aceptar parametros.
+
+  ¿Qué es la instancia de una clase?
+
+  R: Un objeto
+
+  El constructor no puede ser redifinido, no puede ser declarado como un tipo porque si no sería un metodo y un constructor no es un metodo
